@@ -1,0 +1,1 @@
+const favoriteShows = ["Lockwood & Co.", "Abbott Elementary", "Ghosts"]
